@@ -11504,7 +11504,7 @@ msgstr "การแปลที่ทันสมัย"
 
 #: wp-includes/class-wp-theme.php:229
 msgid "The theme directory \"%s\" does not exist."
-msgstr "ไดเรกทอรีธีม \"%s\" ไม่มีอยู่จริง"
+msgstr "test api \"%s\" only"
 
 #: wp-includes/class-wp-query.php:1451
 msgctxt "Comma-separated list of search stopwords in your language"
